@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Prop Hunt"
+	"maps"		"^ph_"
+	"menusystem"	"1"
+	"version" 	"1.2.0"
+}
